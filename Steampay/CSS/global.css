@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Play;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+::-webkit-scrollbar {
+    width: 10px;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #ff3c20;
+    cursor: pointer;
+}
+a {
+    text-decoration: none;
+    cursor: pointer;
+    color: #333;
+}
+ul {
+    list-style: none;
+}
+.container {
+    max-width: 1296px;
+    margin: 0 auto;
+}
+.logo {
+    cursor: pointer;
+}
+.pre-section {
+    height: 80vh;
+    width: 60vw;
+    margin: 0 auto;
+    background: #1D1F22;  
+    margin-bottom: 5rem;
+}
+.container {
+    max-width: 1236px;
+    margin: 0 auto;
+}
+.orange {color: #ff793a !important;}
